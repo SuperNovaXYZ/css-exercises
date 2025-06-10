@@ -1,0 +1,13 @@
+.bit{
+    background-color: black;
+    color:white;
+}
+
+.but{
+    background-color: yellow;
+}
+
+.bit,.but{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
